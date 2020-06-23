@@ -20,16 +20,6 @@ Para a realização desse projeto utilizei :
 # COMO BAIXAR O PROJETO ?
 ```bash
 
-    # Clona o repositório
-    $ git clone https://github.com/LeonArantes/key-generator-javascript.git
-
-    # Entra no repositório
-    $ cd key-generator-javascript.git
-
-    # Instalar as dependências
-    $ yarn install
-
-    # Iniciar o Projeto
-    $ yarn start
+  
 
 ```
