@@ -2,7 +2,7 @@
     <img src="https://ik.imagekit.io/LeonArantes/Sem_T_tulo__18__QuIvyuLMb.png" alt="">
 </h1>
 <h1>
-<img src="./src/_IMAGES/gif-keys.gif" alt="">
+<img src="https://ik.imagekit.io/LeonArantes/gif-keys_NsD3YHm57.gif" alt="">
 </h1>
 
 # SOBRE 
