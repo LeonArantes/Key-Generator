@@ -5,19 +5,19 @@
 <img src="https://ik.imagekit.io/LeonArantes/gif-keys_NsD3YHm57.gif" alt="">
 </h1>
 
-# 🗓️ SOBRE 
+# 📋 SOBRE 
 O <b>Key Generator</b> é um projeto pessoal desenvolvido por mim com a finalidade de trabalhar alguns fundamentos de programação, estou aprendendo <b>JAVASCRITP</b> a 2 meses, e decidi começar a adicionar projetos simples até projetos maiores , para registrar minha evolução.
 
-# COMO FUNCIONA ?
+# 📎 COMO FUNCIONA ?
 O projeto busca uma forma muito intuitiva do usuário poder gerar Keys de sua preferência. Na aplicação é permitido editar a quantidade de caracteres da Key de uma forma simples. Em outras versões será adicionado a personalização de cases dos caracteres.
 
-# TECNOLOGIAS UTILIZADAS
+# 🔧 TECNOLOGIAS UTILIZADAS
 Para a realização desse projeto utilizei :
 - HTML - linguagem de marcação. 
 - CSS - Folha de estilo da página.
 - JAVASCRIPT - Responsável pelas interatividades e funcionalidades da aplicação.
 
-# COMO BAIXAR O PROJETO ?
+# 📦 COMO BAIXAR O PROJETO ?
 ```bash
 
   
