@@ -5,7 +5,7 @@
 <img src="https://ik.imagekit.io/LeonArantes/gif-keys_NsD3YHm57.gif" alt="">
 </h1>
 
-# SOBRE 
+# 🗓️ SOBRE 
 O <b>Key Generator</b> é um projeto pessoal desenvolvido por mim com a finalidade de trabalhar alguns fundamentos de programação, estou aprendendo <b>JAVASCRITP</b> a 2 meses, e decidi começar a adicionar projetos simples até projetos maiores , para registrar minha evolução.
 
 # COMO FUNCIONA ?
